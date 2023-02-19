@@ -1,3 +1,4 @@
+// add func
 int add(int n, int m)
 {
 // xxx
