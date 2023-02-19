@@ -1,6 +1,6 @@
 // add func
 // add xxxx
-// add dddd
+// add nnnn
 int add(int n, int m)
 {
 // xxx
