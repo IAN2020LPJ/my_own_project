@@ -1,6 +1,7 @@
 int add(int n, int m)
 {
 // xxx
-// fff
+// sss
+// ddd
 	return n + m;
 }
